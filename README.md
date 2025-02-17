@@ -11,4 +11,4 @@ The SIG-MTC organisers are:
 - Alessandro Taberna (RFF-CMCC European Institute on Economics and the Environment, Italy), <alessandro.taberna@cmcc.it>
 - Thorid Wagenblast (Delft University of Technology, Netherlands), <t.wagenblast@tudelft.nl>
 
-This repository and discussion space is where members of the SIG-MTC can get information on literature, funding opportunities or other interesting information surrounding the topic of transformative change. If you want to actively add to this community, please reach out to the organisers. 
+This repository and discussion space is where members of the SIG-MTC can get information on literature, funding opportunities or other interesting information surrounding the topic of transformative change. There is a Discussions space for more interactive participation. If you want to actively add to this community, please reach out to the organisers. 
