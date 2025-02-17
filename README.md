@@ -7,8 +7,8 @@ The overarching goal of the SIG-MTC is to advance our understanding of transform
 Contact information:
 
 The SIG-MTC organisers are:
-Nick Roxburgh (The James Hutton Institute, UK), <nick.roxburgh@hutton.ac.uk> 
-Alessandro Taberna (RFF-CMCC European Institute on Economics and the Environment, Italy), <alessandro.taberna@cmcc.it>
-Thorid Wagenblast (Delft University of Technology, Netherlands), <t.wagenblast@tudelft.nl>
+- Nick Roxburgh (The James Hutton Institute, UK), <nick.roxburgh@hutton.ac.uk> 
+- Alessandro Taberna (RFF-CMCC European Institute on Economics and the Environment, Italy), <alessandro.taberna@cmcc.it>
+- Thorid Wagenblast (Delft University of Technology, Netherlands), <t.wagenblast@tudelft.nl>
 
 This repository and discussion space is where members of the SIG-MTC can get information on literature, funding opportunities or other interesting information surrounding the topic of transformative change. If you want to actively add to this community, please reach out to the organisers. 
