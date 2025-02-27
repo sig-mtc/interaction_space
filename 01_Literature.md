@@ -17,19 +17,12 @@ If you want to add something, please reach out to the organisers of this SIG.
 * Filatova, T., Polhill, J. G., & van Ewijk, S. (2016). Regime shifts in coupled socio-environmental systems: Review of modelling challenges and approaches. Environmental Modelling & Software, 75, 333–347. <https://doi.org/10.1016/j.envsoft.2015.04.003>
   * This paper talks about modeling challenges and possibilties in relation to regime shifts/critical transitions/structural changes. They specifically address statisical models, system dynamics models, equilibrium models and agent-based models. Furthermore, it provides an overview of different ways to detect regime shifts.
 
-#### Agent-Based Approaches to Transformative Change
-* Köhler, J., de Haan, F., Holtz, G., Kubeczko, K., Moallemi, E., Papachristos, G., & Chappin, E. (2018). Modelling sustainability transitions: An assessment of approaches and challenges. Journal of Artificial Societies and Social Simulation, 21(1), 8. https://doi.org/10.18564/jasss.3629
-  * This paper evaluates various modeling approaches for sustainability transitions, with a significant focus on agent-based modeling. It identifies key challenges and opportunities in modeling transformative change, making it particularly relevant for ABM researchers within the SIG-MTC.
-
-* Schlüter, M., Baeza, A., Dressler, G., Frank, K., Groeneveld, J., Jager, W., Janssen, M.A., McAllister, R.R.J., Müller, B., Orach, K., Schwarz, N., & Wijermans, N. (2017). A framework for mapping and comparing behavioural theories in models of social-ecological systems. Ecological Economics, 131, 21-35. https://doi.org/10.1016/j.ecolecon.2016.08.008
-  * This work provides a framework for mapping and comparing behavioral theories in social-ecological models, which is essential for accurately representing human decision-making in transformative change processes.
 
 ### Domain-specific
 #### Climate Change
 * Otto, I.M., Donges, J.F., Cremades, R., Bhowmik, A., Hewitt, R.J., Lucht, W., Rockström, J., Allerberger, F., McCaffrey, M., Doe, S.S.P., Lenferna, A., Morán, N., van Vuuren, D.P., & Schellnhuber, H.J. (2020). Social tipping dynamics for stabilizing Earth's climate by 2050. PNAS, 117(5), 2354-2365. https://doi.org/10.1073/pnas.1900577117
   * This paper identifies social tipping interventions that could trigger rapid transformative change in response to climate challenges. It emphasizes the potential for nonlinear social dynamics to accelerate decarbonization, making it highly relevant for agent-based modeling of climate transformations.
 
-#### Characteriscs of transformative adaptation
 * Fedele, G., Donatti, C. I., Harvey, C. A., Hannah, L., & Hole, D. G. (2019). Transformative adaptation to climate change for sustainable social-ecological systems. Environmental Science & Policy, 101, 116–125. https://doi.org/10.1016/j.envsci.2019.07.001
   * This paper reviews conceptual literature on the transformative adaptation of social-ecological systems to climate change. It highlights six key characteristics of transformative adaptation: restructuring, path-shifting, innovation, multiscale, system-wide, and persistence. The authors argue that transformative adaptation, rather than incremental adaptation, is critical for addressing the root causes of vulnerability in these systems. This work provides valuable insights for integrating transformative adaptation strategies into adaptation policies and programs across multiple scales.
 
