@@ -1,4 +1,4 @@
-## Our Community Guidelines
+Ground Rules for interaction within the SIG-MTC
 
 1. **Be kind**: We treat each other with respect and kindness in all our interactions.
 
