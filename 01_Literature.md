@@ -29,9 +29,4 @@ If you want to add something, please reach out to the organisers of this SIG.
 * Wilson, R. S., Herziger, A., Hamilton, M., & Brooks, J. S. (2020). From incremental to transformative adaptation in individual responses to climate-exacerbated hazards. Nature Climate Change, 10(3), 200–208. https://doi.org/10.1038/s41558-020-0691-6
   * This work reviews behavioral literature in relation to individual climate change adaptation. They relate individual, initially incremental adaptation action to larger, transformational adaptation. Social, and specifically agent-based simulation could provide important insights into the emergent phenomenon coming from individual adaptation behavior.
 
-#### Socio-Economic Transformations
-* Geels, F.W., Sovacool, B.K., Schwanen, T., & Sorrell, S. (2017). Sociotechnical transitions for deep decarbonization. Science, 357(6357), 1242-1244. https://doi.org/10.1126/science.aao3760
-  * This paper examines the sociotechnical aspects of transformative change toward decarbonization. It emphasizes the interconnected nature of social, technological, and economic systems, providing important insights for modeling comprehensive transitions.
 
-* Burch, S., Gupta, A., Inoue, C., Kalfagianni, A., Persson, Å., Gerlak, A.K., Ishii, A., Patterson, J., Pickering, J., Scobie, M., Van der Heijden, J., Vervoort, J., Adler, C., Bloomfield, M., Djalante, R., Drupp, J., Fritzen, D., Galaz, V., Gosh, A., ...Van Zeben, J. (2019). New directions in earth system governance research. Earth System Governance, 1, 100006. https://doi.org/10.1016/j.esg.2019.100006
-  * This paper explores governance frameworks for enabling transformative change across interconnected socio-economic systems. It offers insights into how governance structures can either enable or constrain transformative processes, which is critical for realistic agent-based modeling. 
